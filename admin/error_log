@@ -1,0 +1,2 @@
+[25-May-2025 11:22:18 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spkq4689/public_html/admin/admin.php on line 3
+[25-May-2025 11:22:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/spkq4689/public_html/admin/admin.php:1) in /home/spkq4689/public_html/admin/admin.php on line 5

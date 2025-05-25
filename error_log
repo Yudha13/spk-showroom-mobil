@@ -1,0 +1,24 @@
+[21-May-2025 23:14:34 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spkq4689/public_html/index.php on line 8
+[21-May-2025 23:16:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spkq4689/public_html/index.php on line 8
+[21-May-2025 23:17:08 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spkq4689/public_html/index.php on line 8
+[21-May-2025 23:19:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spkq4689/public_html/index.php on line 8
+[21-May-2025 23:24:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spkq4689/public_html/index.php on line 8
+[21-May-2025 23:53:02 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spkq4689/public_html/car.php on line 7
+[21-May-2025 23:53:48 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spkq4689/public_html/login.php on line 10
+[21-May-2025 23:53:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spkq4689/public_html/login.php on line 13
+[21-May-2025 23:53:48 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spkq4689/public_html/login.php on line 15
+[21-May-2025 23:53:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spkq4689/public_html/login.php on line 10
+[21-May-2025 23:53:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spkq4689/public_html/login.php on line 13
+[21-May-2025 23:53:57 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spkq4689/public_html/login.php on line 15
+[21-May-2025 23:54:08 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spkq4689/public_html/car.php on line 7
+[22-May-2025 00:17:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/spkq4689/public_html/showroom.php on line 58
+[22-May-2025 00:18:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/spkq4689/public_html/showroom.php on line 58
+[22-May-2025 00:27:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/spkq4689/public_html/showroom.php on line 58
+[22-May-2025 00:34:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/spkq4689/public_html/showroom.php on line 58
+[22-May-2025 00:34:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/spkq4689/public_html/showroom.php on line 58
+[22-May-2025 00:37:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/spkq4689/public_html/showroom.php on line 58
+[22-May-2025 00:39:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/spkq4689/public_html/showroom.php on line 58
+[22-May-2025 00:39:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/spkq4689/public_html/showroom.php on line 187
+[22-May-2025 00:41:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/spkq4689/public_html/showroom.php on line 187
+[22-May-2025 00:52:08 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/spkq4689/public_html/showroom.php on line 187
+[22-May-2025 00:53:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/spkq4689/public_html/showroom.php on line 187
